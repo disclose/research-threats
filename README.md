@@ -2,7 +2,7 @@
 
 An ongoing collection of legal threats made against Security Researchers: over-reactions, demands, and cease & desist letters against good faith research.
 
-Includes many historical legal events copied with permission from @attrition-org, originally at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/).
+Includes many historical legal events copied with permission from @attritionorg, originally at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/).
 
 It doesn't matter that just about every company and product ships with vulnerabilities; security should be built into a product, rather than applied as a band-aid solution. Secure products are better, and a responsive security team should be an integral part of the development life cycle of that product.
 
@@ -16,9 +16,9 @@ Find examples below of **what *not* to do**.
 
 Embrace security researchers. Learn from the documented examples in this archive. Researcher's who have been threatened by naive entities while legitimately working to improve the security of a product should be a source of collaboration; they may know more about your systems than you do. Put researchers who voluntarily submit bugs & vulnerabilities in touch with your internal security teams, fix vulnerabilities, and coordinate responsible disclosure.
 
-- An excellent coordinated disclosure generally boosts a company's public image & customer confidence.
+- An **excellent coordinated disclosure** generally **boosts a company's public image** & customer confidence.
 
-- A negative experience can exponentially generate negative publicity, sometimes even viral.
+- A **negative experience** can exponentially generate **negative publicity, sometimes even viral**.
 
 Entities that engage researchers and respond quickly to security events are more likely to generate a positive experience. 
 
@@ -42,10 +42,9 @@ Engaging a company that favors profit over ethics, or considers protecting the b
 
 Below, you will find an ongoing & maintained collaborative effort to document some of the most *bizarre* reactions to otherwise trivial security events.
 
-Historical archives were taken with explicit permission to continue wonderful work started by the folks at @attrition-org, and are hosted in their originality at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/).
+Historical archives were taken with explicit permission to continue wonderful work started by the folks at @attritionorg, and are hosted in their originality at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/).
 
 ---------
-
 
 ### Confirmed Threats Made Against Researchers
 
