@@ -1,20 +1,55 @@
-# research-threats
-Legal threats against security researchers, based with permission off the work done by @attritionorg
+# Research Threats: Legal Threats Against Security Researchers
 
-Legal Threats Against Security Researchers
-------------------------------------------
+An ongoing collection of legal threats made against Security Researchers: over-reactions, demands, and cease & desist letters against good faith research.
 
-*Taken with permission for continued open-source contribution from [attrition.org](http://attrition.org/errata/legal_threats/).*
+Includes many historical legal events copied with permission from @attrition-org, originally at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/).
 
-It has been clear for years that businesses have dropped ethics in favor of profit. Protecting the bottom line is usually more important than doing the right thing, even if it means providing a better product to their customers. Companies fear negative publicity, especially if said publicity challenges the security of their products. It doesn't matter that just about every company and product ships with numerous vulnerabilities, and adding security is a band-aid solution rather than an integral part of the development life cycle. Rather than work with researchers who are frequently providing what would otherwise be high-dollar specialized consulting for free, some companies opt to go take the muddy road and pursue legal action against the researchers. This action is one of desperation and attempts to silence and stifle legitimate research and free speech. Invariably, this ends up being a huge negative PR move, much worse than what would occur with the publication of said research without the legal murk.
+It doesn't matter that just about every company and product ships with vulnerabilities; security should be built into a product, rather than applied as a band-aid solution. Secure products are better, and a responsive security team should be an integral part of the development life cycle of that product.
 
-Companies: Embrace researchers who are trying to improve the security of your products. Work with them, fix vulnerabilities, and coordinate disclosure. This will go a lot farther toward building customer confidence and help avoid negative publicity.
+## Is an incident missing from this list?
 
-Researchers: Help protect yourself from legal issues. Visit the [EFF's Coders' Rights Project](https://www.eff.org/issues/coders). Work with companies and respect their timelines for implementing fixes.
+Pull requests are welcome!
 
-**Confirmed threats**
+## For Companies
 
-| **When** | **Entity making threat** | **Researchers** | **Research Topic** | **Resolution/Status** | 
+Find examples below of **what *not* to do**.
+
+Embrace security researchers. Learn from the documented examples in this archive. Researcher's who have been threatened by naive entities while legitimately working to improve the security of a product should be a source of collaboration; they may know more about your systems than you do. Put researchers who voluntarily submit bugs & vulnerabilities in touch with your internal security teams, fix vulnerabilities, and coordinate responsible disclosure.
+
+- An excellent coordinated disclosure generally boosts a company's public image & customer confidence.
+
+- A negative experience can exponentially generate negative publicity, sometimes even viral.
+
+Entities that engage researchers and respond quickly to security events are more likely to generate a positive experience. 
+
+Entities with no security response team, may be more likely to experience a negative disclosure event.
+
+## For Researchers
+
+Find examples below of **what *can* happen when things go wrong**.
+
+Shield yourself from threats by always acting in good faith, following a company's vulnerability disclosure terms and visit the [EFF's Coders' Rights Project](https://www.eff.org/issues/coders). Work with companies and respect their timelines for implementing fixes.
+
+Companies fear negative publicity. From time to time, companies ship bugs & vulnerabilities out into the wild. Any publicity that may challenge the security aspect of a product may lead to threats.
+
+Engaging a company with an extensive, well managed security vulnerability program, will almost never lead to legal action. In fact, you may even be protected from violating a license agreement, while conducting good faith research, under safe habor.
+
+Engaging a company that favors profit over ethics, or considers protecting the bottom line as more important than doing the right thing, may lead to challenges. Some companies welcome vulnerability reports. Some companies don't, but that does not make them immune from exploitation.
+
+---------
+
+# Researcher's Rights: Threatened Security Researchers Walk of Fame & Hall of Shame
+
+Below, you will find an ongoing & maintained collaborative effort to document some of the most *bizarre* reactions to otherwise trivial security events.
+
+Historical archives were taken with explicit permission to continue wonderful work started by the folks at @attrition-org, and are hosted in their originality at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/).
+
+---------
+
+
+### Confirmed Threats Made Against Researchers
+
+| **When** | **Entity** | **Researcher(s)** | **Topic** | **Status** | 
 |---|---|---|---|---|
 | 2020-09-10 | [Giggle](https://joinagiggle.com/) | [Digital Interuption](https://www.digitalinterruption.com/) | Giggle App | After attempting to contact the CEO and several Giggle staff to disclosure the vulnerability directly to them, Digital Interuption was blocked each time, and threatened by Giggle users/fans after the CEO insulted them publicly. After disclosing the vulnerability, Giggle threatened the researchers with an unspecified legal threat. |
 | 2016-11-17 | [Chase Bank](https://www.chase.com/) | [Chad Scira](https://www.linkedin.com/in/chadscira/) | Web Site Security | Before Chase created a coordinated disclosure policy or bug bounty program, Scira found a vulnerability that allowed creating unlimited reward points. Scira documented and shared with Chase via Twitter. They organized a call with an SVP and engineer where he showed them everything that "went well". After, Chase terminated his credit card of five years as well as terminating a family member's card. Scira disclosed this on 2020-11-04. |
