@@ -2,23 +2,23 @@
 
 An ongoing collection of legal threats made against Security Researchers: over-reactions, demands, and cease & desist letters against good faith research.
 
-Includes many historical legal events copied with permission from @attritionorg, originally at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/).
+Includes many historical legal events copied with permission from @attritionorg, originally at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/), which is still maintained. Crowd-sourcing this data through this repository is strongly recommended by all parties.
 
-It doesn't matter that just about every company and product ships with vulnerabilities; security should be built into a product, rather than applied as a band-aid solution. Secure products are better, and a responsive security team should be an integral part of the development life cycle of that product.
+It doesn't matter that just about every company and product ships with vulnerabilities; security should be built into a product, rather than applied as a band-aid solution. Secure products are better, and a responsive security team should be an integral part of the development life cycle of that product. Vulnerabilities will happen; the response to those reports are what is important. Burning bridges and dismissing the good will of researchers offering to help secure your products does not benefit anyone.
 
 ## Is an incident missing from this list?
 
-Pull requests are welcome!
+Issues with links and information are welcome, pull requests are even better!
 
 ## For Companies
 
 Find examples below of **what *not* to do**.
 
-Embrace security researchers. Learn from the documented examples in this archive. Researcher's who have been threatened by naive entities while legitimately working to improve the security of a product should be a source of collaboration; they may know more about your systems than you do. Put researchers who voluntarily submit bugs & vulnerabilities in touch with your internal security teams, fix vulnerabilities, and coordinate responsible disclosure.
+Embrace security researchers. Learn from the documented examples in this archive. Researcher's who have been threatened by naive entities while legitimately working to improve the security of a product should be a source of collaboration; they may know more about your systems than you do. Put researchers who voluntarily submit bugs & vulnerabilities in touch with your internal security teams, work together to fix vulnerabilities, and coordinate the disclosure to your customers and the public.
 
-- An **excellent coordinated disclosure** generally **boosts a company's public image** & customer confidence.
+- An **excellent coordinated disclosure** generally **boosts a company's public image** & customer confidence. It encourages researchers to work with you, not against you.
 
-- A **negative experience** can exponentially generate **negative publicity, sometimes even viral**.
+- A **negative experience** can exponentially generate **negative publicity, [sometimes even viral](https://en.wikipedia.org/wiki/Streisand_effect)**.
 
 Entities that engage researchers and respond quickly to security events are more likely to generate a positive experience. 
 
@@ -28,9 +28,9 @@ Entities with no security response team, may be more likely to experience a nega
 
 Find examples below of **what *can* happen when things go wrong**.
 
-Shield yourself from threats by always acting in good faith, following a company's vulnerability disclosure terms and visit the [EFF's Coders' Rights Project](https://www.eff.org/issues/coders). Work with companies and respect their timelines for implementing fixes.
+Shield yourself from threats by always acting in good faith, following a company's vulnerability disclosure terms and visit the [EFF's Coders' Rights Project](https://www.eff.org/issues/coders). Work with companies and respect their timelines for implementing fixes. What may seem like an "easy fix" to you may be more complicated for a vendor maintaining multiple code trees across hundreds of platforms supporting thousands of customers.
 
-Companies fear negative publicity. From time to time, companies ship bugs & vulnerabilities out into the wild. Any publicity that may challenge the security aspect of a product may lead to threats.
+Companies fear negative publicity; but companies also ship bugs & vulnerabilities out into the wild. Any publicity that may challenge the security aspect of a product may lead to legal threats or calls to law enforcement.
 
 Engaging a company with an extensive, well managed security vulnerability program, will almost never lead to legal action. In fact, you may even be protected from violating a license agreement, while conducting good faith research, under safe habor.
 
