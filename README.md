@@ -8,7 +8,22 @@ It doesn't matter that just about every company and product ships with vulnerabi
 
 ## Is an incident missing from this list?
 
-Issues with links and information are welcome, pull requests are even better!
+Issues with links and information are welcome, [pull requests are even better](https://github.com/disclose/research-threats/edit/master/README.md)!
+
+### Please sanitize Personally Identifiable Information (PII) from PDF, PNG, JPG files before uploading to the [goodies folder](goodies/README.md)!
+
+In the interest of Security Researcher safety, and prevent you from doxxing yourself, you may want to remove all EXIF data from uploads.
+
+From time to time, you may wish to upload documents, screenshots, or even photographs to the [goodies folder](goodies).
+
+See [ExifTool installation instructions here in the goodies folder](goodies).
+
+```bash
+exiftool -all='' document.pdf
+exiftool -all= image.png
+exiftool -all= image.jpg
+exiftool -all= *.png
+```
 
 ## For Companies
 
