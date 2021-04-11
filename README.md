@@ -10,7 +10,7 @@ It doesn't matter that just about every company and product ships with vulnerabi
 
 Issues with links and information are welcome, [pull requests are even better](https://github.com/disclose/research-threats/edit/master/README.md)!
 
-### Please sanitize Personally Identifiable Information (PII) from PDF, PNG, JPG files before uploading to the [goodies folder](goodies/README.md)!
+### Please sanitize Personally Identifiable Information (PII) from PDF, PNG, JPG files before uploading to the [goodies folder](goodies)!
 
 In the interest of Security Researcher safety, and prevent you from doxxing yourself, you may want to remove all EXIF data from uploads.
 
