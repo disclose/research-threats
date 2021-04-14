@@ -2,6 +2,8 @@
 
 An ongoing collection of legal threats made against Security Researchers: over-reactions, demands, and cease & desist letters against good faith research.
 
+![Research Threats. Legal Threats Against Good Faith Security Researchers. Disclose.io](goodies/header-image.png?raw=true "Research Threats. Legal Threats Against Good Faith Security Researchers. Disclose.io")
+
 Includes many historical legal events copied with permission from @attritionorg, originally at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/), which is still maintained. Crowd-sourcing this data through this repository is strongly recommended by all parties.
 
 It doesn't matter that just about every company and product ships with vulnerabilities; security should be built into a product, rather than applied as a band-aid solution. Secure products are better, and a responsive security team should be an integral part of the development life cycle of that product. Vulnerabilities will happen; the response to those reports are what is important. Burning bridges and dismissing the good will of researchers offering to help secure your products does not benefit anyone.
