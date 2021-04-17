@@ -37,6 +37,8 @@ Embrace security researchers. Learn from the documented examples in this archive
 
 - A **negative experience** can exponentially generate **negative publicity, [sometimes even viral](https://en.wikipedia.org/wiki/Streisand_effect)**.
 
+- Providing researchers **safe harbor for reporting a vulnerability** to you is critical to working towards a **more secure product and ecosystem**.
+
 Entities that engage researchers and respond quickly to security events are more likely to generate a positive experience. 
 
 Entities with no security response team, may be more likely to experience a negative disclosure event.
