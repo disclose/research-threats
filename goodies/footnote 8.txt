@@ -1,0 +1,34 @@
+Subject: 	VLC media player...
+From: 	Jean-Baptiste Kempf <jb@videolan.org>
+To: 	vuln@secunia.com,
+Fetched: 	2013-05-22 07:35:04
+
+Dear Secunia,
+
+The fact that you refuse to close a vulnerability on your website because you don't want to test it, why not. (Even if this is just plainly lying to your users).
+
+The fact that you lie, once again, on the criticality level, against your OWN code of conduct, why not.
+
+But the fact that you use that publicly, against us, is outrageous. Moreover, stating we are in the US country reports while we are not mentioned in this PDF.
+
+If you do not correct yourself in the next 24hours, we will therefore take judicial action.
+
+See:
+http://secunia.com/advisories/51464/
+
+The fix, the day Before your
+http://git.videolan.org/?p=vlc/vlc-2.0.git;a=commitdiff;h=2886f1761e246724551fb450316501976a3a5f93 
+
+advisory.
+
+The VLC 2.0.6 release AFTER that integrates the fix.
+
+This tweet:
+https://twitter.com/Secunia/status/336497866308743169 has been screenshot by a lawyer.
+
+Best regards,
+
+-- 
+Jean-Baptiste Kempf
+http://www.jbkempf.com/ - +33 672 704 734
+Sent from my Electronic Device
