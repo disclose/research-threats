@@ -1,6 +1,8 @@
-# Research Threats: Legal Threats Against Security Researchers
+# [Research Threats: Legal Threats Against Security Researchers](https://threats.disclose.io)
 
 An ongoing collection of legal threats made against Security Researchers: over-reactions, demands, and cease & desist letters against good faith research. This project is in homage to [@attritionorg](https://github.com/attritionorg) great work in documenting historical researcher threats.
+
+## Visit this project on the web: [https://threats.disclose.io](https://threats.disclose.io)
 
 ## Visit this project on GitHub: [https://github.com/disclose/research-threats](https://github.com/disclose/research-threats)
 
