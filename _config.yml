@@ -32,5 +32,8 @@ exclude:
   - Gemfile.lock
   - node_modules
 
+css:
+   - main.css
+
 include: 
   - ".well-known"
