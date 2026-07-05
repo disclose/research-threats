@@ -1,12 +1,28 @@
-# [Research Threats: Legal Threats Against Security Researchers](https://threats.disclose.io)
+<div align="center">
 
-An ongoing collection of legal threats made against Security Researchers: over-reactions, demands, and cease & desist letters against good faith research. This project is in homage to [@attritionorg](https://github.com/attritionorg) great work in documenting historical researcher threats.
+<a href="https://threats.disclose.io"><img src="goodies/header-image.png?raw=true" alt="Research Threats — Legal Threats Against Good-Faith Security Researchers · disclose.io" width="840"></a>
 
-## Visit this project on the web: [https://threats.disclose.io](https://threats.disclose.io)
+# Research Threats
 
-## Visit this project on GitHub: [https://github.com/disclose/research-threats](https://github.com/disclose/research-threats)
+### Legal threats against good-faith security researchers — an open-source archive of vulnerability disclosure gone wrong.
 
-![Research Threats. Legal Threats Against Good Faith Security Researchers. Disclose.io](goodies/header-image.png?raw=true "Research Threats. Legal Threats Against Good Faith Security Researchers. Disclose.io")
+<p>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/disclose/research-threats?color=5B3AB6&label=license" alt="CC0 1.0"></a>
+<a href="https://threats.disclose.io"><img src="https://img.shields.io/badge/read_it-threats.disclose.io-5B3AB6" alt="Read it at threats.disclose.io"></a>
+<img src="https://img.shields.io/badge/documented-90%2B%20incidents-5B3AB6" alt="90+ documented incidents">
+<a href="https://github.com/disclose/research-threats/graphs/contributors"><img src="https://img.shields.io/github/contributors/disclose/research-threats?color=5B3AB6" alt="Contributors"></a>
+<a href="https://github.com/disclose/research-threats/issues/new/choose"><img src="https://img.shields.io/badge/submit-a%20story-5B3AB6" alt="Submit a story"></a>
+</p>
+
+*Part of [the disclose.io Project](https://disclose.io) · continuing [@attritionorg](https://github.com/attritionorg)'s [legal-threats archive](https://attrition.org/errata/legal_threats/)*
+
+</div>
+
+---
+
+**An ongoing, open-source collection of legal threats made against security researchers** — over-reactions, demands, and cease-&-desist letters against good-faith research. In homage to, and continuing, [@attritionorg](https://github.com/attritionorg)'s work documenting historical researcher threats.
+
+📖 **Read it on the web:** [threats.disclose.io](https://threats.disclose.io)  ·  🐙 **On GitHub:** [disclose/research-threats](https://github.com/disclose/research-threats)
 
 Includes many historical legal events copied with permission from [@attritionorg](https://github.com/attritionorg), originally at [https://attrition.org/errata/legal_threats/](https://attrition.org/errata/legal_threats/), which is still maintained. Crowd-sourcing this data through this repository is strongly recommended by all parties.
 
