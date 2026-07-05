@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://threats.disclose.io"><img src="goodies/header-image.png?raw=true" alt="Research Threats — Legal Threats Against Good-Faith Security Researchers · disclose.io" width="840"></a>
+<a href="https://threats.disclose.io"><img src="docs/marquee.png" alt="Research Threats — an open-source archive of legal threats against good-faith security researchers · disclose.io" width="840"></a>
 
 # Research Threats
 
