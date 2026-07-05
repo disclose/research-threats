@@ -14,7 +14,7 @@
 <a href="https://github.com/disclose/research-threats/issues/new/choose"><img src="https://img.shields.io/badge/submit-a%20story-5B3AB6" alt="Submit a story"></a>
 </p>
 
-*Part of [the disclose.io Project](https://disclose.io) · continuing [@attritionorg](https://github.com/attritionorg)'s [legal-threats archive](https://attrition.org/errata/legal_threats/)*
+*Part of **[the disclose.io Project](https://disclose.io)** — the open, vendor-neutral infrastructure for vulnerability disclosure. [Browse the ecosystem →](https://github.com/disclose)*
 
 </div>
 
